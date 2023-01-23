@@ -1,4 +1,4 @@
-# module-2-challenge Portfolio
+# Portfolio
 
 Hello and welcome to the repository of my portfolio :
 
